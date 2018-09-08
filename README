@@ -54,6 +54,16 @@ below:
     - Panasonic RAW and RW2
     - Fujifilm RAF
 
+
+References and previous work:
+============================
+
+  Dcraw : https://www.cybercom.net/~dcoffin/dcraw/
+  CR3 : Laurent Clévy, https://github.com/lclevy/canon_cr3
+  CR2 :
+  CRW : Phil Harvey, https://sno.phy.queensu.ca/%7Ephil/exiftool/canon_raw.html
+
+
 How to build:
 =============
 
